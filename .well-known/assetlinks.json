@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.neytuscorporation_collab.twa",
+        "sha256_cert_fingerprints": ["AE:BB:F4:B2:79:2E:80:BA:CC:A1:6C:EB:4A:F4:14:54:8F:C5:C0:8E:4A:0C:3F:55:AE:8A:80:77:10:48:71:78"]
+      }
+    }]
